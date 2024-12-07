@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 50px;
-  margin: 50px;
+  padding: 10px;
+  margin: 100px;
   flex-direction: column;
   background-color: lightgray;
   border-radius: 10px;
@@ -22,14 +22,26 @@
 
 
 .skills {
-  display: flex;
-  gap: 50px; 
-  animation: circular 6s linear infinite;
+  display: flex; 
+  animation: circular 50s linear infinite;
   white-space: nowrap; 
   overflow: hidden;
-  padding-bottom: 50PX;
+  padding-bottom: 50px;
   margin-bottom: 50px;
   animation: bounce 3s ease-in-out infinite;
+  align-items: center;
+  justify-content: center;
+  gap: 20pz;
+
+  
+}
+
+.div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
 }
 
 .skillimage {
@@ -56,7 +68,7 @@
     margin: 10px;  
   }
   .skills{
-    gap: 20px;
+    gap: 10px;
     animation: bounce 4s ease-in-out infinite;
   }
   .skillimage {
@@ -70,7 +82,7 @@
   }
 
   .skills {
-    gap: 10px; 
+    gap: 5px; 
     animation: bounce 5s ease-in-out infinite; 
   }
 

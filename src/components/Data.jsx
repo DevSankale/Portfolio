@@ -1,7 +1,7 @@
 export default [
   {
     id:1,
-    projectCover:"./projectImages/Recipe1.jpg",
+    projectCover:"./projectImages/amazon2.jpg",
     title:"RecipeApp",
     description:"A responsive web app that allows users to search for recipes based on ingredients or dish names, providing clear instructions and a list of ingredients. Designed with a clean UI and optimized for easy navigation on all device sizes."
   ,
@@ -29,7 +29,7 @@ export default [
   },
   {
     id:4,
-    projectCover:"/projectImages/amazon2.jpg",
+    projectCover:"./projectImages/amazon2.jpg",
     title:"AmazonClone",
     description:" This project uses JavaScript, HTML, and CSS.It replicates the core functionalities of the popular e-commerce platform.This project offered a hands-on experience in building essential features of a modern e-commerce website."
   ,

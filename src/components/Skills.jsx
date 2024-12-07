@@ -9,22 +9,23 @@ export default function Skills() {
     <div className={styles.container}>
       <p className={styles.skill}>SKILLS.</p>
       <div className={styles.skills}>
-        <p>
-          <img src={img1} className={styles.skillimage} alt="JavaScript." />
-          Javascript.
-        </p>
-        <p>
+        
+        <div className={styles.div}>
           <img src={img2} className={styles.skillimage} alt="React." />
           React.
-        </p>
-        <p>
+        </div>
+        <div className={styles.div}>
           <img src={img3} className={styles.skillimage} alt="CSS." />
           CSS.
-        </p>
-        <p>
+        </div>
+        <div className={styles.div}>
           <img src={img4} className={styles.skillimage} alt="HTML." />
           Html.
-        </p>
+        </div>
+        <div className={styles.div}>
+          <img src={img1} className={styles.skillimage} alt="JavaScript." />
+          Javascript.
+        </div>
       </div>
     </div>
   );

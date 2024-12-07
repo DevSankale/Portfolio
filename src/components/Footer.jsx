@@ -19,7 +19,6 @@ function Footer(){
         </div>
         <div>
           
-          
           <p><a href="#welcome" className={styles.link}>Home</a></p>
           <p><a href="#About"  className={styles.link}>About</a></p>
           <p><a href="#Project"  className={styles.link}>Projects</a></p>

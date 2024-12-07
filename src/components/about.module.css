@@ -55,8 +55,9 @@
       border-radius: 0px 0px 50px 50px;
       padding: 50px;
       flex-direction: column;
-    
-    
+  }
+  .devdetails{
+    font-size: small;
   }
   
   }

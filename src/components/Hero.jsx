@@ -25,15 +25,7 @@ function Hero() {
   return (
     <div className={styles.homepage}>
       <div className={styles.welcomeDiv} id="welcome">
-        <div className={styles.details}>
-          <h1>
-            I <b className={styles.nameIntro}>AM</b> SANKALE.
-          </h1>
-          <h4>A Web Developer.</h4>
-          <a href="#Project" className={styles.myWork}>
-            MyWork
-          </a>
-        </div>
+      
         <div className={styles.imageContainer}>
           {transitions((style, index) => (
             <animated.img
@@ -44,6 +36,15 @@ function Hero() {
               className={styles.animatedImage} 
             />
           ))}
+        </div>
+          <div className={styles.details}>
+          <h1>
+            I <b className={styles.nameIntro}>AM</b> SANKALE.
+          </h1>
+          <h4>A Web Developer.</h4>
+          <a href="#Project" className={styles.myWork}>
+            MyWork
+          </a>
         </div>
       </div>
     </div>
