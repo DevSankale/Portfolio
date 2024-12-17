@@ -5,7 +5,7 @@ export default [
     title:"MovieApp",
     description:"MovieApp is a sleek and responsive movie discovery platform built with React and powered by The Movie Database (TMDB) API. It allows users to explore popular movies, search for specific titles, and view detailed movie information, including posters and overviews.The app features an intuitive search bar with real-time updates and a Favorites section for users to save movies they love. Optimized for both desktop and mobile, MovieApp ensures smooth navigation and performance. Built with Vite and modern React tools, it delivers a fast, user-friendly experience for movie enthusiasts."
   ,
-    link:"https://devsankale.github.io/Portfolio/",
+    link:"https://devsankale.github.io/MovieApp/",
     backgroundImage:"./images/movie.jpg"
   },
   {
@@ -70,5 +70,5 @@ export default [
       link:"https://devsankale.github.io/RPS-Game/",
       backgroundImage:"./images/rps1.jpg"
     },
-    
+
   ]
