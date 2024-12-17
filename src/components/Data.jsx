@@ -10,7 +10,7 @@ export default [
   },
   {
     id:2,
-    projectCover:"./projectImages/amazon2.jpg",
+    projectCover:"./projectImages/Recipe1.jpg",
     title:"RecipeApp",
     description:"A responsive web app that allows users to search for recipes based on ingredients or dish names, providing clear instructions and a list of ingredients. Designed with a clean UI and optimized for easy navigation on all device sizes."
   ,
