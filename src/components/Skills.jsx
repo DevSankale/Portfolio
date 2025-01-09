@@ -3,6 +3,7 @@ import img1 from "./images/java-script.png";
 import img2 from "./images/react.png";
 import img3 from "./images/css.png";
 import img4 from "./images/html.png";
+import img5 from './images/tailwind.png'
 
 export default function Skills() {
   return (
@@ -13,6 +14,10 @@ export default function Skills() {
         <div className={styles.div}>
           <img src={img2} className={styles.skillimage} alt="React." />
           React.
+        </div>
+        <div className={styles.div}>
+          <img src={img5} className={styles.skillimage} alt="Tailwind." />
+          Tailwind.
         </div>
         <div className={styles.div}>
           <img src={img3} className={styles.skillimage} alt="CSS." />

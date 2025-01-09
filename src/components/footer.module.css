@@ -22,6 +22,9 @@
   margin: 20px;
   
 }
+.para{
+  color: gray;
+}
 
 .footerinfo{
   display: flex;

@@ -48,11 +48,11 @@ export default [
   
   {
     id:6,
-    projectCover:"./projectImages/pokemon2.jpg",
-    title:"Pokemon",
-    description:"This web application, built with React, showcases a collection of Pokémon fetched from an external API. Leveraging Axios for efficient HTTP requests, the project demonstrates proficiency in working with RESTful APIs and managing asynchronous data flow in a React environment.",
-    link:"https://devsankale.github.io/Pokemon-React/",
-    backgroundImage:"./images/pokemon2.jpg"
+    projectCover:"./projectImages/Capturesnip.JPG",
+    title:"Landing Page.",
+    description:"Tailwind Landing Page is a modern, responsive web page built using Tailwind CSS, a utility-first framework that allows for quick and efficient design customization. The page features a clean, minimalistic layout with utility classes for flexibility and responsiveness across devices. HTML and CSS are used for the structure and styling, while JavaScript enhances interactivity, especially for smooth navigation and dynamic content. The page also leverages responsive design principles, ensuring optimal viewing on various screen sizes. This landing page showcases the power of Tailwind CSS for building visually appealing and functional websites with ease and efficiency.",
+    link:"https://devsankale.github.io/TailwindLandingPage/",
+    backgroundImage:"./images/Capturesnip.JPG"
   },
   {
     id:7,
