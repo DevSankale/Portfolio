@@ -13,11 +13,12 @@
 .skill{
   padding: 20px;
   text-decoration: underline;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   font-size: 20px;
   margin: 20PX;
   font-style: italic;
+  color: gray;
 }
 
 
