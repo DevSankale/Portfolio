@@ -50,7 +50,7 @@ export default [
     id:6,
     projectCover:"./projectImages/Capturesnip.JPG",
     title:"Landing Page.",
-    description:"Tailwind Landing Page is a modern, responsive web page built using Tailwind CSS, a utility-first framework that allows for quick and efficient design customization. The page features a clean, minimalistic layout with utility classes for flexibility and responsiveness across devices. HTML and CSS are used for the structure and styling, while JavaScript enhances interactivity, especially for smooth navigation and dynamic content. The page also leverages responsive design principles, ensuring optimal viewing on various screen sizes. This landing page showcases the power of Tailwind CSS for building visually appealing and functional websites with ease and efficiency.",
+    description:"This Landing Page is a modern, responsive web page built using Tailwind CSS, a utility-first framework that allows for quick and efficient design customization. The page features a clean, minimalistic layout with utility classes for flexibility and responsiveness across devices. HTML and CSS are used for the structure and styling, while JavaScript enhances interactivity, especially for smooth navigation and dynamic content. The page also leverages responsive design principles, ensuring optimal viewing on various screen sizes. This landing page showcases the power of Tailwind CSS for building visually appealing and functional websites with ease and efficiency.",
     link:"https://devsankale.github.io/TailwindLandingPage/",
     backgroundImage:"./images/Capturesnip.JPG"
   },
